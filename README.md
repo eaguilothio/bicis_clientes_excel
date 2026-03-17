@@ -26,7 +26,7 @@ Identificar qué tipo de cliente compra una bicicleta en función de variables d
 | 1. Importación y exploración | Carga del CSV, creación del libro de trabajo, diccionario de datos |
 | 2. Limpieza de datos | Eliminación de duplicados, renombrado de valores, segmentación por edad |
 | 3. Análisis con tablas dinámicas | Cruces por género, edad, distancia, coches y región |
-| 4. Dashboard | Visualización de insights con gráficos y segmentadores |
+| 4. Dashboard | Visualización de insights con gráficos |
 
 ---
 
@@ -49,11 +49,14 @@ Identificar qué tipo de cliente compra una bicicleta en función de variables d
 
 ## Principales hallazgos
 
-- El comportamiento de compra es equilibrado tanto para hombres como mujeres, sin distinción.
-- El grupo Adult Rider es nuestro motor de ventas. De cada 10 que entran, más de 5 compran.
-Acción: Aquí es donde debemos invertir más en publicidad.
--  Para un joven, la bici puede ser su único medio de transporte (necesidad), necesidad = Publicidad ( Acción: Regalar el primer año de mantenimiento básico. Eso cierra la venta al instante porque les das seguridad)
-- Los Senior que viven muy cerca prefieren caminar, y los que viven muy lejos probablemente no ven la bicicleta como una opción de transporte viable o cómoda por el esfuerzo físico. Acción: promocionar bicis eléctricas que eliminan el factor esfuerzo y permiten recorrer mayores distancias. 
-- Aunque hay menos gente viviendo en Pacific (menor volumen), la probabilidad de que compren una bici es mayor que en Europe o North America.
+- **Género:** El comportamiento de compra es equilibrado entre hombres y mujeres, sin diferencias significativas.
+- **Edad:** El grupo **Adult Rider (36–50)** es el motor de ventas — más de 5 de cada 10 compran. Es el segmento prioritario para inversión en publicidad.
+- **Young Rider (18–35):** Para este grupo la bici puede ser su único medio de transporte (necesidad). Acción recomendada: regalar el primer año de mantenimiento básico como palanca de cierre de venta.
+- **Senior Rider (51+):** Los que viven muy cerca prefieren caminar; los que viven muy lejos no ven la bici como opción viable por el esfuerzo físico. Acción recomendada: promocionar bicicletas eléctricas, que eliminan el factor esfuerzo y amplían el radio de desplazamiento.
+- **Región:** Pacific tiene menor volumen de clientes, pero una tasa de conversión más alta que Europe y North America: ¿Aumentar la inversión publicitaria en Pacific?
 
+---
 
+## Notas
+
+Para más detalle sobre el proceso técnico paso a paso, consultar [`NOTAS_PROCESO.md`](./NOTAS_PROCESO.md).

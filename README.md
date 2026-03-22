@@ -101,7 +101,7 @@ Dataset simulado con 1.000 clientes y 7 variables. Variables utilizadas en el an
 ## 📈 Resultados
 
 - **Adult Rider (36–50):** motor de ventas — de cada 10 clientes, más de 5 compran. Segmento prioritario para publicidad.
-- **Young Rider (18–35):** para muchos la bici es su único medio de transporte. Hay una necesidad, enfocar la publicidad, también, para este grupo. Ofrecer el primer año de mantenimiento gratuito para cerrar venta.
+- **Young Rider (< 36):** para muchos la bici es su único medio de transporte. Hay una necesidad, enfocar la publicidad, también, para este grupo. Ofrecer el primer año de mantenimiento gratuito para cerrar venta.
 - **Senior Rider (51+):** los que viven cerca prefieren caminar; los que viven lejos ven el esfuerzo físico como barrera. Recomendación: promocionar bicis eléctricas.
 - **Región Pacific:** aunque hay menos gente viviendo en Pacific, la probabilidad de que compren una bici es mayor que en Europe o North America. Oportunidad: aumentar inversión publicitaria en esa región.
 - **Género:** comportamiento de compra equilibrado entre hombres y mujeres — el género no es un factor determinante. La oferta es atractiva para ambos perfiles.

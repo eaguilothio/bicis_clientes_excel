@@ -11,6 +11,10 @@ Proyecto de análisis de perfiles de compra para una tienda de bicicletas. La pr
 
 ## 📊 Datos
 
+Dataset original: [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) — *Excel Project for Beginners* (YouTube). Datos simulados de uso libre para práctica y aprendizaje.
+
+---
+
 Dataset simulado con 1.000 clientes y 7 variables. Variables utilizadas en el análisis:
 
 | Variable | Tipo | Descripción |
